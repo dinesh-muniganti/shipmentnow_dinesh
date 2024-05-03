@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Dummy">15fef9c693100210cdaa74cdfaba10a9</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 05:06:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c90f3dc693100210cdaa74cdfaba1098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15fef9c693100210cdaa74cdfaba10a9</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_c90f3dc693100210cdaa74cdfaba1098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 05:06:10</sys_updated_on>
+        <tab display_value="Dummy - New Tab">8d0f3dc693100210cdaa74cdfaba1095</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

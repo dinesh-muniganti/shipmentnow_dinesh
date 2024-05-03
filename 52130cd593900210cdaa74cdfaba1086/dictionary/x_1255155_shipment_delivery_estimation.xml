@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c4e2f89993d40210cdaa74cdfaba1066" label="Delivery Estimation" max_length="40" name="x_1255155_shipment_delivery_estimation" type="collection">
+        <element label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element label="End Month" max_length="40" name="end_month" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element choice="3" default="new employee" label="Shipment Assignment" max_length="40" name="shipment_assignment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Damaged" value="damaged"/>
+                <element inactive_on_update="false" label="New Employee" value="new employee"/>
+            </choice>
+        </element>
+        <element choice="1" choice_field="shipment_type" choice_table="x_1255155_shipment_shipment_request" default="bd" label="Shipment Type" max_length="40" name="shipment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blue Dart" sequence="0" value="bd"/>
+                <element inactive_on_update="false" label="Delhivery" sequence="1" value="dv"/>
+                <element inactive_on_update="false" label="Ecom Express" sequence="2" value="ee"/>
+                <element inactive_on_update="false" label="FedEX" sequence="3" value="fe"/>
+            </choice>
+        </element>
+        <element label="Start Month" max_length="40" name="start_month" type="string"/>
+        <element choice="3" choice_field="state" choice_table="x_1255155_shipment_shipment_request" default="pending" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Delivered" sequence="0" value="delivered"/>
+                <element inactive_on_update="false" label="In Transit" sequence="1" value="in transit"/>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="pending"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="country"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="additiona_comments_customer_visible" label="Additional comments(Customer visible)" language="en" table="x_1255155_shipment_shipment_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>additiona_comments_customer_visible</element>
+            <help/>
+            <hint/>
+            <label>Additional comments(Customer visible)</label>
+            <language>en</language>
+            <name>x_1255155_shipment_shipment_request</name>
+            <plural>Additional comments(Customer visible)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 09:41:14</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Additional comments(Customer visible)</sys_name>
+            <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+            <sys_update_name>sys_documentation_x_1255155_shipment_shipment_request_additiona_comments_customer_visible_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 09:46:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

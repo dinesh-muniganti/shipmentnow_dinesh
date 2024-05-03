@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 14:18:14</sys_created_on>
+        <sys_id>6a90ac1993940210cdaa74cdfaba109c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1255155_shipment_delivery_estimation_calculator.x_1255155_shipment.delivery_estimation_calculator_user</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_security_acl display_value="x_1255155_shipment_delivery_estimation_calculator">a290ac1993940210cdaa74cdfaba109a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6a90ac1993940210cdaa74cdfaba109c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 14:18:14</sys_updated_on>
+        <sys_user_role display_value="x_1255155_shipment.delivery_estimation_calculator_user" name="x_1255155_shipment.delivery_estimation_calculator_user">de90e01993940210cdaa74cdfaba1099</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</application>
+        <file_path/>
+        <instance_id>cb0a07c5db563d1cf697684e13961956</instance_id>
+        <instance_name>dev201719</instance_name>
+        <name>sys_security_acl_role_6a90ac1993940210cdaa74cdfaba109c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:18:14</sys_created_on><sys_id>6a90ac1993940210cdaa74cdfaba109c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1255155_shipment_delivery_estimation_calculator.x_1255155_shipment.delivery_estimation_calculator_user</sys_name><sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package><sys_policy/><sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope><sys_security_acl display_value="x_1255155_shipment_delivery_estimation_calculator">a290ac1993940210cdaa74cdfaba109a</sys_security_acl><sys_update_name>sys_security_acl_role_6a90ac1993940210cdaa74cdfaba109c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:18:14</sys_updated_on><sys_user_role display_value="x_1255155_shipment.delivery_estimation_calculator_user" name="x_1255155_shipment.delivery_estimation_calculator_user">de90e01993940210cdaa74cdfaba1099</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-468476043</payload_hash>
+        <record_name>x_1255155_shipment_delivery_estimation_calculator.x_1255155_shipment.delivery_estimation_calculator_</record_name>
+        <reverted_from/>
+        <source>de130cd593900210cdaa74cdfaba1087</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 14:18:14</sys_created_on>
+        <sys_id>ea90ac1993940210cdaa74cdfaba109e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d936212460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 14:18:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2690ac19df9402104c16b623c2e2fd9e</update_guid>
+        <update_guid_history>2690ac19df9402104c16b623c2e2fd9e:-468476043</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1255155_shipment_delivery_estimation_calculator.x_1255155_shipment.delivery_es">20b7e01193d40210cdaa74cdfaba106b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 14:49:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>7b31991b4dc2493680d27e39f468e224</sys_id>
+        <sys_metadata>6a90ac1993940210cdaa74cdfaba109c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1255155_shipment_delivery_estimation_calculator.x_1255155_shipment.delivery_estimation_calculator_user</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_parent display_value="">a290ac1993940210cdaa74cdfaba109a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_scope_delete display_value="">046bb0806cc947e0887eaee1b291f990</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6a90ac1993940210cdaa74cdfaba109c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6a90ac1993940210cdaa74cdfaba109c">ea90ac1993940210cdaa74cdfaba109e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 14:49:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="3904089d93140210cdaa74cdfaba10a4" label="Shipment Request" max_length="40" name="x_1255155_shipment_shipment_request" type="collection">
+        <element label="Accrued" max_length="40" name="accrued" type="integer"/>
+        <element label="Additional comments(Customer visible)" max_length="40" name="additiona_comments_customer_visible" type="string"/>
+        <element label="Address" max_length="32" name="address" type="string"/>
+        <element choice="3" default="nyr" label="Approval" max_length="40" name="approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Not Yet Requested" value="nyr"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+                <element inactive_on_update="false" label="Requested" value="requested"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="assignment_group" dependent_on_field="assignment_group" label="Assigned to" max_length="40" name="assigned_to" reference="sys_user" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element choice="1" label="Assignment Group" max_length="40" name="assignment_group" reference="sys_user_group" type="reference">
+            <choice/>
+        </element>
+        <element choice="3" default="hw" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" value="hw"/>
+                <element inactive_on_update="false" label="Software" value="sw"/>
+            </choice>
+        </element>
+        <element label="Contact Number" mandatory="true" max_length="40" name="contact_number" type="phone_number_e164"/>
+        <element label="Delivery Date" max_length="40" name="delivery_date" type="glide_date"/>
+        <element label="Delivery Estimation" max_length="40" name="delivery_estimation" type="integer"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Items Left" max_length="40" name="items_left" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="On-Hold Reason" max_length="40" name="on_hold_reason" type="string"/>
+        <element default="javascript:new GlideDate().getDisplayValue()" label="Ordered Date" max_length="40" name="ordered_date" type="glide_date"/>
+        <element choice="3" default="1" label="Quantity" max_length="40" name="quantity" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+                <element inactive_on_update="false" label="4" value="4"/>
+                <element inactive_on_update="false" label="5" value="5"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="bd" label="Shipment Type" max_length="40" name="shipment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blue Dart" sequence="0" value="bd"/>
+                <element inactive_on_update="false" label="Delhivery" sequence="1" value="dv"/>
+                <element inactive_on_update="false" label="Ecom Express" sequence="2" value="ee"/>
+                <element inactive_on_update="false" label="FedEX" sequence="3" value="fe"/>
+                <element inactive_on_update="false" label="Dtdc" sequence="4" value="dtdc"/>
+            </choice>
+        </element>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element choice="3" default="new" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="1" value="new"/>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="pending"/>
+                <element inactive_on_update="false" label="On - Hold" sequence="3" value="On - Hold"/>
+                <element inactive_on_update="false" label="In Transit" sequence="4" value="in transit"/>
+                <element inactive_on_update="false" label="Delivered" sequence="5" value="delivered"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="6" value="cancelled"/>
+                <element inactive_on_update="false" label="Closed" sequence="7" value="closed"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="category" dependent_on_field="category" label="Subcategory" max_length="40" name="subcategory" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="sw" inactive_on_update="false" label="Antivirus" value="antivirus"/>
+                <element dependent_value="hw" inactive_on_update="false" label="Laptop" value="laptop"/>
+                <element dependent_value="hw" inactive_on_update="false" label="Mobile" value="mobile"/>
+                <element dependent_value="sw" inactive_on_update="false" label="Office365" value="office365"/>
+                <element dependent_value="hw" inactive_on_update="false" label="Tablets" value="tablets"/>
+                <element dependent_value="sw" inactive_on_update="false" label="Windows11" value="windows11"/>
+            </choice>
+        </element>
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="Work notes" max_length="40" name="work_notes" type="string"/>
+        <index name="index">
+            <element name="address"/>
+        </index>
+        <index name="index2">
+            <element name="requested_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f0d0b41993d40210cdaa74cdfaba10e0" label="Shipment Bucket" max_length="40" name="x_1255155_shipment_shipment_bucket" type="collection">
+        <element label="Accrued" max_length="40" name="accrued" type="integer"/>
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Customer" max_length="32" name="customer" reference="sys_user" type="reference"/>
+        <element label="Items Left" max_length="40" name="items_left" type="integer"/>
+        <element label="Items Present" max_length="40" name="items_present" type="integer"/>
+        <element label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element choice="3" choice_field="shipment_type" choice_table="x_1255155_shipment_shipment_request" default="bd" label="Shipment Type" max_length="40" name="shipment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blue Dart" sequence="0" value="bd"/>
+                <element inactive_on_update="false" label="Delhivery" sequence="1" value="dv"/>
+                <element inactive_on_update="false" label="Ecom Express" sequence="2" value="ee"/>
+                <element inactive_on_update="false" label="FedEX" sequence="3" value="fe"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

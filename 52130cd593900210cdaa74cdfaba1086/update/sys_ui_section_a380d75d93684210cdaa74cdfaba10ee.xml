@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a380d75d93684210cdaa74cdfaba10ee" sys_domain="global" table="x_1255155_shipment_shipment_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>fd3bac5c93494210cdaa74cdfaba107a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>713bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f13bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>753bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f53bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipment_type</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>793bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ordered_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f93bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>7d3bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>fd3bac5c93494210cdaa74cdfaba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>713bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_hold_reason</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f13bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>753bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f53bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>793bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_number</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f93bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>7d3bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>fd3bac5c93494210cdaa74cdfaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>713bac5c93494210cdaa74cdfaba107d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 19:17:46</sys_created_on>
+            <sys_id>f13bac5c93494210cdaa74cdfaba107d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_shipment_request" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">a380d75d93684210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 19:17:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1255155_shipment_shipment_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 13:22:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a380d75d93684210cdaa74cdfaba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1255155_shipment_shipment_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+            <sys_update_name>sys_ui_section_a380d75d93684210cdaa74cdfaba10ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 13:22:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">4736b0a03cb1311068bcf327dfe37f81</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

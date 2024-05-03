@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="cd45641d93940210cdaa74cdfaba10ee" sys_domain="global" table="x_1255155_shipment_delivery_estimation_calculator" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipment_assignment</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>af65ec5d93940210cdaa74cdfaba1016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_month</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>2365ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_month</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>a365ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipment_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>2765ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>a765ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>2b65ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>ab65ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:39:19</sys_created_on>
+            <sys_id>2f65ec5d93940210cdaa74cdfaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:39:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1255155_shipment_delivery_estimation_calculator</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-10 14:38:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd45641d93940210cdaa74cdfaba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1255155_shipment_delivery_estimation_calculator</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+            <sys_update_name>sys_ui_section_cd45641d93940210cdaa74cdfaba10ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-10 14:38:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</application>
+        <file_path/>
+        <instance_id>cb0a07c5db563d1cf697684e13961956</instance_id>
+        <instance_name>dev201719</instance_name>
+        <name>sys_ui_section_cd45641d93940210cdaa74cdfaba10ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="cd45641d93940210cdaa74cdfaba10ee" sys_domain="global" table="x_1255155_shipment_delivery_estimation_calculator" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>shipment_assignment</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>af65ec5d93940210cdaa74cdfaba1016</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>start_month</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>2365ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>end_month</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>a365ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>shipment_type</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>2765ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>a765ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>2b65ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>quantity</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>ab65ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>country</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:39:19</sys_created_on><sys_id>2f65ec5d93940210cdaa74cdfaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1255155_shipment_delivery_estimation_calculator" sys_domain="global" view="Default view">cd45641d93940210cdaa74cdfaba10ee</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:39:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1255155_shipment_delivery_estimation_calculator</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 14:38:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd45641d93940210cdaa74cdfaba10ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1255155_shipment_delivery_estimation_calculator</sys_name><sys_overrides/><sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package><sys_policy/><sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope><sys_update_name>sys_ui_section_cd45641d93940210cdaa74cdfaba10ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 14:38:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-100362803</payload_hash>
+        <record_name>Delivery Estimation Calculator</record_name>
+        <reverted_from/>
+        <source>de130cd593900210cdaa74cdfaba1087</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 14:39:20</sys_created_on>
+        <sys_id>6f65ec5d93940210cdaa74cdfaba1019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d937561bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 14:39:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>6765ec5d9a940210c67a2bfa8dad4919</update_guid>
+        <update_guid_history>6765ec5d9a940210c67a2bfa8dad4919:-100362803,c145641d6294021047768f0f0de973f4:-177995000,4145641d8c940210fcafd1d1609ae6f1:697344103</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 14:49:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6addbf87e0a74e109a541e6c240c4871</sys_id>
+        <sys_metadata>cd45641d93940210cdaa74cdfaba10ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1255155_shipment_delivery_estimation_calculator</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_parent display_value="">fe4e5c9593940210cdaa74cdfaba10c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_scope_delete display_value="">046bb0806cc947e0887eaee1b291f990</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cd45641d93940210cdaa74cdfaba10ee</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cd45641d93940210cdaa74cdfaba10ee">6f65ec5d93940210cdaa74cdfaba1019</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 14:49:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Default - SOW">48c6565ec3013010965e070e9140dd39</configuration>
+        <description>ShipmentNow  Categories and Lists</description>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 06:48:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>14fff22593e48210cdaa74cdfaba10fd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ShipmentNow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_update_name>sys_ux_list_category_14fff22593e48210cdaa74cdfaba10fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 07:50:38</sys_updated_on>
+        <title>ShipmentNow</title>
+    </sys_ux_list_category>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1255155_shipment_shipment_request</collection>
+        <condition table="x_1255155_shipment_shipment_request">state=pending^ORstate=in transit^ORstate=delivered<item display_value="Pending" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="pending"/>
+            <item display_value="In Transit" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="in transit"/>
+            <item display_value="Delivered" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="delivered"/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>Status about your Order</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Hello&nbsp; ${requested_by},<br /><br />State: ${state}</p>
+<p>Approval: ${approval}</p>
+<p>&nbsp;</p>
+<p>Thanks and Regards,<br />ShipmentNow Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>ShipmentNow Status Notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>requested_by</recipient_fields>
+        <recipient_groups>8a5055c9c61122780043563ef53438e3,8a4dde73c6112278017a6a4baf547aa7</recipient_groups>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441</recipient_users>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>New ShipmentNow Request Status</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 09:20:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc375e9593a44210cdaa74cdfaba1029</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ShipmentNow Status Notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_update_name>sysevent_email_action_bc375e9593a44210cdaa74cdfaba1029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 09:09:43</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>
