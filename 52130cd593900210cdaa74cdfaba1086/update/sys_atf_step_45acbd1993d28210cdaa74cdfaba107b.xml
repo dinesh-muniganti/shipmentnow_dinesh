@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Short Description = testing shipment
+and Address = hno 9830 wgl
+and Requested By = Abel Tuter
+and Contact Number = +91 94916 89077</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 07:07:00</sys_created_on>
+        <sys_id>45acbd1993d28210cdaa74cdfaba107b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1255155_shipment">52130cd593900210cdaa74cdfaba1086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">52130cd593900210cdaa74cdfaba1086</sys_scope>
+        <sys_update_name>sys_atf_step_45acbd1993d28210cdaa74cdfaba107b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 07:13:58</sys_updated_on>
+        <table>x_1255155_shipment_shipment_request</table>
+        <test display_value="Shipment Test">204c391993d28210cdaa74cdfaba107a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=45acbd1993d28210cdaa74cdfaba107b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>45acbd1993d28210cdaa74cdfaba107b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 07:07:00</sys_created_on>
+        <sys_id>38ecf15993d28210cdaa74cdfaba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 07:07:00</sys_updated_on>
+        <value>short_description=testing shipment^address=hno 9830 wgl^requested_by=62826bf03710200044e0bfc8bcbe5df1^contact_number=+919491689077^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>45acbd1993d28210cdaa74cdfaba107b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 07:07:00</sys_created_on>
+        <sys_id>70ecf15993d28210cdaa74cdfaba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 07:07:00</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>45acbd1993d28210cdaa74cdfaba107b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 07:07:00</sys_created_on>
+        <sys_id>74ecf15993d28210cdaa74cdfaba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 07:07:00</sys_updated_on>
+        <value>x_1255155_shipment_shipment_request</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=45acbd1993d28210cdaa74cdfaba107b"/>
+</record_update>
